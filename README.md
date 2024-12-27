@@ -1,4 +1,5 @@
-## Hi there 
+## Hi there ![GoodDayHiGIF](https://github.com/user-attachments/assets/db5b120a-a38c-4af3-b6f5-9ef39441da37)
+
 
 <!--
 **ummeMuqaddisa/ummeMuqaddisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
