@@ -1,4 +1,4 @@
-## Hi there ![GoodDayHiGIF](https://github.com/user-attachments/assets/db5b120a-a38c-4af3-b6f5-9ef39441da37)
+## Hi there !
 
 
 <!--
