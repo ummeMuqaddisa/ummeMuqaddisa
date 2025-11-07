@@ -16,10 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <h1>Welcome to Umme's Github</h1>
-  <p>&lt;/&gt;</p>
-</p>
 
 
 ## 🌐 Socials:
