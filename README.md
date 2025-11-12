@@ -10,7 +10,9 @@
 
   <!-- Image on the right -->
   <div>
-    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
+    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/Untitled.gif" width="250" alt="Animated header" />
+
+    
   </div>
 
 </div>
