@@ -1,6 +1,8 @@
-https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/cute%20photo%F0%9F%8D%AA.jpg
+<img align="right" src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/cute%20photo%F0%9F%8D%AA.jpg" width="250" />
+
 <h1 align="center">Welcome to muqaddisa's Github</h1>
 <p align="center">&lt;/&gt;</p>
+
 
 
 ## Hi there !💕
