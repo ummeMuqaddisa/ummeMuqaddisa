@@ -1,19 +1,33 @@
-<!-- ─── Header Section ─────────────────────────────── -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  
-  <!-- Text on the left -->
-  <div>
-    <h1>Welcome to muqaddisa's Github 💻</h1>
-    <p>&lt;/&gt;</p>
-    <p>Hi there !💕</p>
-  </div>
+<!-- ─── About Me Section ─────────────────────────────── -->
+<table>
+  <tr>
+    <!-- About Me text on the left -->
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h2>About Me 🚀</h2>
+      <p>Hi! I'm <strong>Muqaddisa</strong>, an aspiring software engineer with a passion for building impactful projects. I love exploring new technologies and bringing ideas to life.</p>
+      
+      <strong>Languages & Tools:</strong>
+      <ul>
+        <li>💻 Dart, Kotlin, Java</li>
+        <li>🌐 HTML, CSS, JavaScript</li>
+        <li>⚡ Flutter, Android Studio</li>
+      </ul>
 
-  <!-- Image on the right -->
-  <div>
-    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
-  </div>
+      <strong>Interests:</strong>
+      <ul>
+        <li>Exploring the fusion of technology, creativity, and human connection 🌍</li>
+        <li>Building projects that solve real problems</li>
+        <li>Learning, experimenting, and sharing knowledge</li>
+      </ul>
+    </td>
 
-</div>
+    <!-- Image on the right -->
+    <td style="vertical-align: top;">
+      <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="About Me illustration" />
+    </td>
+  </tr>
+</table>
+
 
 
 
