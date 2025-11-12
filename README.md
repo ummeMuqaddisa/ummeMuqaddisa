@@ -1,19 +1,42 @@
 <!-- ─── Header Section ─────────────────────────────── -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  
-  <!-- Text on the left -->
-  <div>
-    <h1>Welcome to muqaddisa's Github 💻</h1>
-    <p>&lt;/&gt;</p>
-    <p>Hi there !💕</p>
-  </div>
-
-  <!-- Image on the right -->
-  <div>
-    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
-  </div>
-
+<div align="center">
+  <h1>Welcome to muqaddisa's GitHub 💻</h1>
+  <p>&lt;/&gt;</p>
 </div>
+
+<br/>
+
+<!-- ─── About Me Section ─────────────────────────────── -->
+<table>
+  <tr>
+    <!-- Text on the left -->
+    <td style="vertical-align: top; padding-right: 20px;">
+      <h2>About Me 🚀</h2>
+      <p>Hi! I’m <strong>Muqaddisa</strong>, an aspiring software engineer exploring the fusion of technology, creativity, and human connection 🌍. I enjoy building projects that make a difference and learning new skills along the way.</p>
+      
+      <strong>Languages & Tools:</strong>
+      <ul>
+        <li>💻 Dart, Kotlin, Java</li>
+        <li>🌐 HTML, CSS, JavaScript</li>
+        <li>⚡ Flutter, Android Studio</li>
+      </ul>
+
+      <strong>Interests:</strong>
+      <ul>
+        <li>Creating impactful software projects</li>
+        <li>Exploring AI, mobile apps, and creative tech</li>
+        <li>Sharing knowledge and learning continuously</li>
+      </ul>
+    </td>
+
+    <!-- Image on the right -->
+    <td style="vertical-align: top;">
+      <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="About Me illustration" />
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 
 
