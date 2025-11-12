@@ -1,12 +1,10 @@
 <!-- ─── Header Section ─────────────────────────────── -->
 <div align="center">
-  <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/Untitled%20Design.jpg" width="300" alt="Header illustration" />
+  <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="400" alt="Header illustration" />
   
   <h1>Welcome to muqaddisa's Github 💻</h1>
   <p>&lt;/&gt;</p>
 </div>
-
-
 
 
 ## Hi there !💕
