@@ -1,21 +1,19 @@
 <!-- ─── Header Section ─────────────────────────────── -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  
-  <!-- Text on the left -->
-  <div>
-    <h1>Welcome to muqaddisa's Github 💻</h1>
-    <p>&lt;/&gt;</p>
-    <p>Hi there !💕</p>
-  </div>
+<table>
+  <tr>
+    <!-- Text on the left -->
+    <td>
+      <h1>Welcome to muqaddisa's Github 💻</h1>
+      <p>&lt;/&gt;</p>
+      <p>Hi there !💕</p>
+    </td>
 
-  <!-- Image on the right -->
-  <div>
-    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
-  </div>
-
-</div>
-
-
+    <!-- Image on the right -->
+    <td>
+      <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
+    </td>
+  </tr>
+</table>
 
 
 
