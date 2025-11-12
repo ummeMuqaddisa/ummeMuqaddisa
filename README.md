@@ -2,18 +2,19 @@
 <table>
   <tr>
     <!-- Text on the left -->
-    <td>
+    <td style="vertical-align: middle; padding-right: 20px;">
       <h1>Welcome to muqaddisa's Github 💻</h1>
       <p>&lt;/&gt;</p>
       <p>Hi there !💕</p>
     </td>
 
     <!-- Image on the right -->
-    <td>
+    <td style="vertical-align: middle;">
       <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/raw/main/github.jpg" width="250" alt="Header illustration" />
     </td>
   </tr>
 </table>
+>
 
 
 
