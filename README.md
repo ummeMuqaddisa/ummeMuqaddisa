@@ -1,3 +1,9 @@
+<img align="right" src="https://raw.githubusercontent.com/muqaddisa/muqaddisa/main/cutephoto.jpg" width="250" />
+
+<h1 align="center">Welcome to muqaddisa's Github</h1>
+<p align="center">&lt;/&gt;</p>
+
+
 ## Hi there !💕
 
 
