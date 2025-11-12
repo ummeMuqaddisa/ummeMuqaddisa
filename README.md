@@ -19,6 +19,7 @@
         <li>💻 Dart, Kotlin, Java</li>
         <li>🌐 HTML, CSS, JavaScript</li>
         <li>⚡ Flutter, Android Studio</li>
+        <li>🐍 Python, C, C++, MySQL</li>
       </ul>
 
       <strong>Interests:</strong>
