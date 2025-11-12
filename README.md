@@ -1,5 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/muqaddisa/muqaddisa/main/cutephoto.jpg" width="250" />
-
+https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/cute%20photo%F0%9F%8D%AA.jpg
 <h1 align="center">Welcome to muqaddisa's Github</h1>
 <p align="center">&lt;/&gt;</p>
 
