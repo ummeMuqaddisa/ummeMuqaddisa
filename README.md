@@ -5,9 +5,9 @@
   <!-- Text on the left -->
   <div style="margin: 0; padding: 0; line-height: 1;">
     <h1 style="margin: 0;">Welcome to muqaddisa's Github 💻</h1>
-    <p style="margin: 2px 0;">&lt;/&gt;</p>
     <p style="margin: 2px 0;">Hi there !💕</p>
   </div>
+
 
   <!-- Image on the right -->
   <div style="margin: 0; padding: 0; display: flex; align-items: center;">
