@@ -10,7 +10,7 @@
 
   <!-- Image on the right -->
   <div>
-   <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/github-Photoroom.png" width="250" alt="Header illustration" />
+   <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/github-removebg-preview.png" width="250" alt="Header illustration" />
     
   </div>
 
