@@ -10,7 +10,7 @@
 
   <!-- Image on the right -->
   <div>
-   <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png" width="250" alt="Header illustration" />
+   <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png" width="300" alt="Header illustration" />
     
   </div>
 
