@@ -12,7 +12,7 @@
   <!-- Image on the right -->
   <div style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png"
-         width="270"
+         width="370"
          style="display: block; margin: 0; padding: 0; vertical-align: middle;"
          alt="Header illustration" />
   </div>
