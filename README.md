@@ -1,19 +1,19 @@
 <!-- ─── Header Section ─────────────────────────────── -->
 <div align="center" 
-     style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 0; padding: 0;">
+     style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 0; padding: 0; line-height: 1;">
 
   <!-- Text on the left -->
-  <div style="margin: 0; padding: 0;">
+  <div style="margin: 0; padding: 0; line-height: 1;">
     <h1 style="margin: 0;">Welcome to muqaddisa's Github 💻</h1>
-    <p style="margin: 4px 0;">&lt;/&gt;</p>
-    <p style="margin: 4px 0;">Hi there !💕</p>
+    <p style="margin: 2px 0;">&lt;/&gt;</p>
+    <p style="margin: 2px 0;">Hi there !💕</p>
   </div>
 
   <!-- Image on the right -->
-  <div style="margin: 0; padding: 0;">
+  <div style="margin: 0; padding: 0; display: flex; align-items: center;">
     <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png"
          width="270"
-         style="display: block; margin: 0; padding: 0;"
+         style="display: block; margin: 0; padding: 0; vertical-align: middle;"
          alt="Header illustration" />
   </div>
 
