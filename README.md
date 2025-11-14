@@ -7,17 +7,25 @@
     <h1 style="margin: 0;">Welcome to muqaddisa's Github 💻</h1>
     <p style="margin: 2px 0;">Hi there !💕</p>
   </div>
-
-
-  <!-- Image on the right -->
-  <div style="margin: 0; padding: 0; display: flex; align-items: center;">
-    <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png"
-         width="300"
-         style="display: block; margin: 0; padding: 0; vertical-align: middle;"
-         alt="Header illustration" />
-  </div>
-
 </div>
+
+<br/>
+
+<!-- Kitty Image on Right -->
+<p>
+  <img src="https://github.com/ummeMuqaddisa/ummeMuqaddisa/blob/main/Untitled%20(1920%20x%201080%20px).png"
+       width="350"
+       align="right"
+       alt="Kitty Illustration"/>
+</p>
+
+<!-- About Me Section (No horizontal line) -->
+<h2><b>About Me 💖</b></h2>
+
+<p> 👩‍💻 A curious mind who loves creating beautiful & meaningful things with code.<br> 💻 Passionate about mobile development, UI design & learning new technologies every day.<br> 🧩 Enjoy turning ideas into clean, creative, user-friendly projects.<br> 🌿 Believer in constant growth, calm energy & soft aesthetics in everything I do.<br> </p>
+
+<br clear="right"/>
+
 
 ## 🌐 Socials:
 
