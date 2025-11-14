@@ -23,7 +23,7 @@
 
 <!-- About Me Section (No horizontal line) -->
 <h3><b>About Me 💖</b></h3>
-
+<br>
 
 <p> 👩‍💻 Curious mind crafting beautiful, meaningful things with code.<br>
     💻 Passionate about mobile dev, UI design & learning daily.<br> 
