@@ -24,7 +24,7 @@
 
 <p> 👩‍💻 A curious mind who loves creating beautiful & meaningful things with code.<br> 💻 Passionate about mobile development, UI design & learning new technologies every day.<br> 🧩 Enjoy turning ideas into clean, creative, user-friendly projects.<br> 🌿 Believer in constant growth, calm energy & soft aesthetics in everything I do.<br> </p>
 
-<br clear="right"/>
+
 
 
 ## 🌐 Socials:
