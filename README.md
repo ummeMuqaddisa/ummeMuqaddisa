@@ -25,10 +25,10 @@
 <h3><b>About Me 💖</b></h3>
 
 
-<p> 👩‍💻 A curious mind who loves creating beautiful & meaningful things with code.<br>
-    💻 Passionate about mobile development, UI design & learning new technologies every day.<br> 
-    🧩 Enjoy turning ideas into clean, creative, user-friendly projects.<br> 
-    🌿 Believer in constant growth, calm energy & soft aesthetics in everything I do.<br> </p>
+<p> 👩‍💻 Curious mind crafting beautiful, meaningful things with code.<br>
+    💻 Passionate about mobile dev, UI design & learning daily.<br> 
+    🧩 Turning ideas into clean, user-friendly projects.<br> 
+    🌿 Believe in calm energy & soft aesthetics.<br> </p>
 
 
 
