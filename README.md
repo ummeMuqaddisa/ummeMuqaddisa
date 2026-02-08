@@ -5,7 +5,7 @@
   <!-- Text on the left -->
   <div style="margin: 0; padding: 0; line-height: 1;">
     <h1 style="margin: 0;">Welcome to muqaddisa's Github 💻</h1>
-    <p style="margin: 2px 0;">Hi there !💕</p>
+    <p style="margin: 2px 0;">Hi there !💕</p>       
   </div>
 </div>
 
@@ -21,9 +21,16 @@
  
 </p>
 
-<!-- About Me Section (No horizontal line) -->
-<h3><b>About Me 💖</b></h3>
-<br>
+
+
+<h3>
+  <b>About Me 
+    <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" 
+         width="35" 
+         style="vertical-align: middle; margin-bottom: 5px;">
+  </b>
+</h3>
+
 
 <p> 👩‍💻 Curious mind crafting beautiful, meaningful things with code.<br>
     💻 Passionate about mobile dev, UI design & learning daily.<br> 
@@ -33,13 +40,17 @@
 
 <br>
 
-## 🌐 Socials:
+
+## <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="35"> Socials:
+<br>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ummemuqaddisa) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/umme.mukaddisa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___muqaddisa16___) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E4405F.svg?logo=pinterest&logoColor=white)](https://www.pinterest.com/ummemukaddisa/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white)](https://www.reddit.com/user/BigNo9227/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199686010622)
 
-# 💻 Tech Stack:
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Tech Stack:
+<br>
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%2300599C.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -51,9 +62,22 @@
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ummeMuqaddisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ummeMuqaddisa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ummeMuqaddisa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ummeMuqaddisa&label=Profile%20views&color=0e75b6&style=flat" alt="ummeMuqaddisa" /> </p>
+
+
+
+<p align="center">
+  <br>
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+</p>
+<br><br>
+ 
+
+
